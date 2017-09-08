@@ -27,3 +27,6 @@ Plugin can resize textarea field when user type some text <br/>
 <code>
 $('textarea').autoresize('refresh');
 </code>
+
+# example
+https://jsfiddle.net/fr03bya0/
