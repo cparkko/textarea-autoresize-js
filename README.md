@@ -3,8 +3,8 @@ jQuery plugin <br/>
 Plugin can resize textarea field when user type some text <br/>
 
 # options
-<strong>width</strong> - width of textarea (default: outerWidth) <br/>
-<strong>height</strong> - minimum height (default: outerHeight)
+<strong>width</strong> - width of hidden container, must be equal to textarea width (default: outerWidth) <br/>
+<strong>height</strong> - minimum height of hidden container (default: outerHeight)
 
 # methods
 <strong>refresh</strong> - update height of textarea
